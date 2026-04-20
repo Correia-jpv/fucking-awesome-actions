@@ -112,6 +112,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### GitHub Tools and Management
 
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> [FailureMemory](https://github.com/UnguisAI/failurememory) - GitHub Action for recurring CI failure fingerprinting and memory-backed triage for GitHub Actions.
 - <b><code>&nbsp;&nbsp;&nbsp;192⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;20🍴</code></b> [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action))
 - <b><code>&nbsp;&nbsp;&nbsp;218⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;34🍴</code></b> [Action to sync GitHub labels in the declarative way](https://github.com/micnncim/action-label-syncer))
 - <b><code>&nbsp;&nbsp;&nbsp;215⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;59🍴</code></b> [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action))
